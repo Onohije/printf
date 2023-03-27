@@ -1,3 +1,3 @@
 My Printf readme
-Contributor Name: Moshood Ezekiel Odutola
-		: Onohije Blessing Igbadume
+Second Contributor Name: Moshood Ezekiel Odutola
+First contributor Name : Onohije Blessing Igbadume
